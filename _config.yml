@@ -1,6 +1,6 @@
 ---
 title: Dave's Homepage
-timezone: UTC
+timezone: America/New_York
 collections:
   posts:
     title: Posts
